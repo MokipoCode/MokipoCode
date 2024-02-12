@@ -7,6 +7,10 @@ Looking first to:
 - Resume training on data manipulation and analysis (with a NLP specification)
 - bonus: redo my master thesis with a lot more knowledge than in 2022
 
+Put influences: Mistral, Hermes/Nous Research, Lecun
+
+Link to job by Tanguy 
+
 <!---
 MokipoCode/MokipoCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
