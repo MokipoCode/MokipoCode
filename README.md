@@ -3,6 +3,7 @@
 👀 I’m interested in Data, NLP and AI.
 
 Looking first to:
+- use CoLATeP corpus for nlp purposes
 - Fine-tune a BERT model dedicated to NER to reflect my previous work experience
 - Resume training on data manipulation and analysis (with a NLP specification)
 - bonus: redo my master thesis with a lot more knowledge than in 2022 [link https://www.cairn.info/revue-langages-2014-3-page-3.htm#s2n6 3.2]
