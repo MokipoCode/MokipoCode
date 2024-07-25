@@ -50,10 +50,6 @@ On a personal level, I am meticulous, laid-back, a good communicator, highly cur
 - Cinema and Cinematography
 - Political and Social issues of AI technologies 
 
-### Contact details
-
-- E-mail: lucas.aubertin@proton.me
-
 Hint: if you are looking for NLP jobs based (mainly) in France, visit this [website](http://w3.erss.univ-tlse2.fr/membre/tanguy/offres.html) maintained by my ex-informatic teacher.
 
 <!---
