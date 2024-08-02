@@ -26,7 +26,8 @@ On a personal level, I am meticulous, laid-back, a good communicator, highly cur
 - Programming language: Python (ML/DL: Transformers, PyTorch, Numpy, Scikit-learn, pandas and Matplotlib, NLP focused: NLTK and SpaCy, XML processing: lxml and BeautifulSoup)
 - Databases queries: SQL
 - Development tools: My preferred code editor is VSCode and I am comfortable using Linux.
-- Showcase repo: [to create]
+- [Showcase repo](https://github.com/MokipoCode/tmp_projet) [ongoing]
+
 
 ### Inspirations
 #### Companies
