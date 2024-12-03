@@ -43,8 +43,8 @@ On a personal level, I am meticulous, laid-back, a good communicator, highly cur
 
 ### Other passions:
 
-- Reading: last books read (Thilliez - Pandemia, Ali Laïdi - La Chine ou le réveil du guerrier économique, Liu Cixin - La mort immortelle) 
-- Cars and motorcycles: engines and other mechanical systems, design and aesthetics, driving and discovering new places, races (F1, 24H Le Mans) and showcase events (Goodwood Festival of Speed), I truly love everything! (s/o [BigTime](https://www.youtube.com/@bigtimebigtimebigtime) and [Sylvain Lyve](https://www.youtube.com/@SylvainLyve/videos))
+- Reading:
+- Cars and motorcycles: engines and other mechanical systems, design and aesthetics, driving and discovering new places, races (F1, 24H Le Mans) and showcase events (Goodwood Festival of Speed), I truly love everything!
 - Music: I listen to a LOT of music and always eager to discover new music!
 - Lego: can't stop building them!
 - Walking, hiking, climbing, via ferrata
