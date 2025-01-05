@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @MokipoCode
 
-## NLP/AI Developer 
+## Data Scientist NLP
 
 ### About me
 
-I am a passionate and driven NLP/AI Developer with a strong background in linguistics and computer science, **currently seeking to transition into data analysis/software design projects within the automotive or motorcycle industry**. I have experience working with Python and various tools, and I am always eager to learn and take on new challenges! In my free time, I enjoy exploring new places, listening to music, and understanding how things work.
+I am a passionate and driven Data Scientist specialized in NLP/AI with a strong background in linguistics and computer science, currently seeking a PhD opportunity in NLP focusing on Knowledge Graphs for AI applications, or Data Scientist NLP positions. I have experience working with Python and various tools, and I am always eager to learn and take on new challenges! In my free time, I enjoy exploring new places, listening to music and understanding how things work.
 
 On a personal level, I am meticulous, laid-back, a good communicator, highly curious, independent, and straightforward.
 
@@ -33,7 +33,6 @@ On a personal level, I am meticulous, laid-back, a good communicator, highly cur
 #### Companies
 - [Mistral](https://mistral.ai/fr/)
 - [NousResearch](https://nousresearch.com/)
-- [Toyota Gazoo Racing](https://toyotagazooracing.com/)
 
 #### People
 - Teknium1, Cofounder @NousResearch [Twitter](https://twitter.com/Teknium1) / [Github](https://github.com/sponsors/teknium1)
